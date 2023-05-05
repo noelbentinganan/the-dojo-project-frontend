@@ -1,0 +1,11 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+:root {
+    --app-white: #FFFFFF;
+    --app-semi-white: #F4F6F8;
+    --app-purple: #805AD5;
+    --app-dark-purple: #1B2240;
+}
